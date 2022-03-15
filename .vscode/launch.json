@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open main.html",
-            "file": "c:\\Users\\Ακης\\Tribute-to-Alexander-the-Great\\launch.json"
+            "name": "Open launch.json",
+            "file": "c:\\Users\\Ακης\\Tribute-to-Alexander-the-Great\\vs.code\\launch.json"
             //"file":"${workspaceFolder}/index.html"
         }
     ]
