@@ -5,11 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Launch Chrome",
-            "request": "launch",
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
             "type": "pwa-chrome",
-            "url": "http://localhost:8080",
-            "webRoot": "${c:\\Users\\Ακης\\Tribute-to-Alexander-the-Great}"
+            "webRoot": "${c:\\Users\\Ακης\\Tribute-to-Alexander-the-Great\\style.css}"
         },
         {
             "type": "pwa-chrome",
